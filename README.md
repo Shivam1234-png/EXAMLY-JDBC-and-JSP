@@ -1,5 +1,1 @@
-# EXAMLY-JDBC-and-JSP
-Examly an online exam portal where teacher can create tests and student can give them.
-TECH STACK: 
-FRONT END: HTML and CSS
-BACK END: JSP using Java Database Connectivity (JDBC) , Oracle (version 10g XE) and mySQL.
+Examly an online exam portal where teacher can create tests and student can give them. Students can login and view the tests availabe(previously created by teachers). Teachers can create test: give the test name, question, options and the correct option. Tests will be MCQ based and will have negative marks for wrong answers. A number of other things have been taken care of like the number of tests a student has appeared for, number of exams passed and failed. TECH STACK: FRONT END: HTML and CSS BACK END: JSP, Java Database Connectivity, Oracle(10G Express Edition) , MYSQL.
